@@ -1,3 +1,8 @@
+# Author: Sebastian Holbøll 
+# Date: 2024-10-20
+# Version: 2.0
+# Description: This script imports a CSV file to a Google Sheet.
+
 import gspread
 from google.oauth2.service_account import Credentials
 import csv
